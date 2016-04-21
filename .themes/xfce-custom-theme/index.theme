@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=xfce-custom-theme
+Comment=XFCE4 custom theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=xfce-custom-theme
+IconTheme=Cheser
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close
