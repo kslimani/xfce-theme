@@ -5,6 +5,7 @@ XFCE4 custom theme
 * Window borders is Numix Holo.
 * Icons are Cheser theme.
 * Cursor is DMZ white theme.
+* GTK3 theme is based on this [Numix Holo](https://github.com/dar5hak/Numix-Holo) on Github.
 
 Required packages installation :
 ```
