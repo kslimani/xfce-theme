@@ -33,6 +33,7 @@ Theme Configuration :
 * WM font is Titillium Web (SemiBold, size 10)
 * App font is Titillium Web (SemiBold, size 10)
 * Desktop properties / Wallpaper : saturation is 1.0
+* Dashboard bar size is 30 pixels
 
 ## Numix modifications
 
