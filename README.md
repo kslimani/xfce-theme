@@ -19,8 +19,8 @@ Installation (as root user) :
 
 ```
 apt-get install build-essential automake autotools-dev autoconf glib-2.0-dev libgtk2.0-dev libxfce4ui-1-dev
-tar -zxvf Xfce-Theme-Manager-0.3.4.tar.gz
-cd Xfce-Theme-Manager-0.3.4
+tar -zxvf Xfce-Theme-Manager-0.3.6.tar.gz
+cd Xfce-Theme-Manager-0.3.6
 ./autogen.sh --prefix=/usr
 make
 make install
@@ -28,8 +28,11 @@ make install
 
 Theme Configuration :
 
-* WM font is Titillium Web (SemiBold, size 10).
-* App font is Titillium Web (SemiBold, size 10).
+* Icons is Cheser
+* Cursors is DMZ (White)
+* WM font is Titillium Web (SemiBold, size 10)
+* App font is Titillium Web (SemiBold, size 10)
+* Desktop properties / Wallpaper : saturation is 1.0
 
 ## Numix modifications
 
