@@ -13,7 +13,7 @@ apt-get install dmz-cursor-theme gtk2-engines-murrine
 
 ## XFCE theme manager
 
-Download page : http://keithhedger.hostingsiteforfree.com/pages/apps.html#themeed
+Source code : [https://github.com/KeithDHedger/Xfce-Theme-Manager](https://github.com/KeithDHedger/Xfce-Theme-Manager)
 
 Installation (as root user) :
 
