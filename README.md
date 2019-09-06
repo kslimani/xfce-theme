@@ -19,8 +19,8 @@ Installation (as root user) :
 
 ```
 apt-get install build-essential automake autotools-dev autoconf glib-2.0-dev libgtk2.0-dev libxfce4ui-1-dev
-tar -zxvf Xfce-Theme-Manager-0.3.6.tar.gz
-cd Xfce-Theme-Manager-0.3.6
+tar -zxvf Xfce-Theme-Manager-0.3.8.tar.gz
+cd Xfce-Theme-Manager-0.3.8
 ./autogen.sh --prefix=/usr
 make
 make install
