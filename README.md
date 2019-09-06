@@ -1,5 +1,7 @@
 # XFCE4 custom theme
 
+__UPDATE:__ this theme is broken since XFCE 4.12+ and therefore deprecated. Instead, take a look at [Numix theme project](https://github.com/numixproject/numix-gtk-theme).
+
 * This theme is a mix of Numix Holo and Greybird GTK themes.
 * Window borders is Numix Holo.
 * Icons are Cheser theme.
